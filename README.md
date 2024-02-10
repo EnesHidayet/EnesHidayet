@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! My name is Enes.
 
+ <img src="https://komarev.com/ghpvc/?username=eneshidayet&label=Profile%20views&color=0e75b6&style=flat" alt="eneshidayet" />  [![Github](https://img.shields.io/github/followers/eneshidayet?label=Follow&style=social)](https://github.com/eneshidayet)
+
+
 ###
 
 <div align="center">
